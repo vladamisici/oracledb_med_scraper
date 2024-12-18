@@ -1,4 +1,4 @@
-# oracledb_med_scraper
+# oracledb_med_scraper (Work-In-Progress)
 
 keyword-based search and summarization of medical publications.
 
