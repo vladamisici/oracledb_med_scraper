@@ -177,11 +177,6 @@ async function getPapers() {
           <li>Local Oracle database management</li>
           <li>Scalable architecture</li>
         </ul>
-        <p>Team & Credits:</p>
-        <ul class="about-list">
-          <li>Designers: Inspired by Apple's clean aesthetics</li>
-          <li>Developers: Frontend (Vue.js), Backend (Python, Flask), DB (Oracle)</li>
-        </ul>
       </section>
 
       <!-- HELP PAGE -->
